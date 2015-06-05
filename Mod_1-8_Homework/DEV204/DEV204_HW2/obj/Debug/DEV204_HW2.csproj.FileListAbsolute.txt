@@ -1,0 +1,5 @@
+c:\Users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204_HW2\bin\Debug\DEV204_HW2.exe.config
+c:\Users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204_HW2\bin\Debug\DEV204_HW2.exe
+c:\Users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204_HW2\bin\Debug\DEV204_HW2.pdb
+c:\Users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204_HW2\obj\Debug\DEV204_HW2.exe
+c:\Users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204_HW2\obj\Debug\DEV204_HW2.pdb

@@ -1,0 +1,5 @@
+C:\Users\fizzafruit\Documents\Visual Studio 2013\Projects\DEV204\DEV204_HW8\bin\Debug\DEV204_HW8.exe.config
+C:\Users\fizzafruit\Documents\Visual Studio 2013\Projects\DEV204\DEV204_HW8\bin\Debug\DEV204_HW8.exe
+C:\Users\fizzafruit\Documents\Visual Studio 2013\Projects\DEV204\DEV204_HW8\bin\Debug\DEV204_HW8.pdb
+C:\Users\fizzafruit\Documents\Visual Studio 2013\Projects\DEV204\DEV204_HW8\obj\Debug\DEV204_HW8.exe
+C:\Users\fizzafruit\Documents\Visual Studio 2013\Projects\DEV204\DEV204_HW8\obj\Debug\DEV204_HW8.pdb

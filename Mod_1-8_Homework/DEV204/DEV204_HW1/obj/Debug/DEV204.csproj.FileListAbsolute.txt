@@ -1,0 +1,6 @@
+c:\users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204\bin\Debug\DEV204.exe.config
+c:\users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204\obj\Debug\DEV204.csprojResolveAssemblyReference.cache
+c:\users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204\bin\Debug\DEV204.exe
+c:\users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204\bin\Debug\DEV204.pdb
+c:\users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204\obj\Debug\DEV204.exe
+c:\users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204\obj\Debug\DEV204.pdb

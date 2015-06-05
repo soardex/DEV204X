@@ -1,0 +1,6 @@
+c:\Users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204_HW4\bin\Debug\DEV204_HW4.exe.config
+c:\Users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204_HW4\obj\Debug\DEV204_HW4.csprojResolveAssemblyReference.cache
+c:\Users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204_HW4\bin\Debug\DEV204_HW4.exe
+c:\Users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204_HW4\bin\Debug\DEV204_HW4.pdb
+c:\Users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204_HW4\obj\Debug\DEV204_HW4.exe
+c:\Users\fizzafruit\documents\visual studio 2013\Projects\DEV204\DEV204_HW4\obj\Debug\DEV204_HW4.pdb
